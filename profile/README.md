@@ -8,8 +8,6 @@ This organization is used to:
 
 - host **exam and course projects**
 - collect **team-based university work**
-- keep track of **prototypes, experiments, and final projects**
-- organize repositories by topic, technology, and learning path
 
 Projects here span multiple software engineering areas, including:
 
@@ -20,42 +18,19 @@ Projects here span multiple software engineering areas, including:
 - mobile and web-oriented experimentation
 - algorithmic and scientific prototyping
 
-## Main technologies used
-
-Across the repositories in this organization, the main languages currently include:
-
-- **Python**
-- **Java**
-- **Scala**
-- **Dart**
-- **Jupyter Notebook**
-
 ## Featured repositories
 
 Some of the projects currently hosted in this organization include:
 
-- **KompozeR** — management software project for PACI, also used as a combined project for Distributed Systems and ASW
-- **SmartParking** — a project focused on smart parking domain concepts
-- **Operational-Analytics** — analytics-oriented project
-- **QuantumMazeSolver** — scientific/experimental project involving notebooks and computational exploration
-- **project_learnify** — application project built with Dart
-- **PPS-23-2DESF** — Scala-based academic project
-- **PCD-Final-Project** — final project in Java
-- **Keyla-TTT** — recent group project for Software Process Engineering
+- **KompozeR** — Extension of the Site: www.soluzionekompo.com to provide a system to build and order a personalized shelf, also used as a combined project for Distributed Systems and ASW
+- **SmartParking** — a project focused on the management of an automatic parking slot
+- **Operational-Analytics** — Forecasting with Statistical and Machine Learning (both Neural and Non Neural) algorithms
+- **QuantumMazeSolver** — Implementation of the Grover's algorithm to solve a 2*2 maze
+- **project_learnify** — Prototype of a mobile app to help DSA students
+- **PPS-23-2DESF** — Scala-based academic project 
+- **PCD-Final-Project** — Academic project to understand concurrent and distributed programming
+- **Keyla-TTT** — Project for Software Process Engineering (focused on the management of a multirepo project, github actions and automatic release and deployment)
 
-## Organization insights
-
-### Languages overview
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1ngVG-ExamsProjects&layout=compact&theme=transparent)
-
-### GitHub stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1ngVG-ExamsProjects&show_icons=true&theme=transparent)
-
-### Contribution graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=1ngVG-ExamsProjects&theme=github-compact)
 
 ## Notes
 
