@@ -1,4 +1,8 @@
 # 1ngVG-ExamsProjects
+[![Scala](https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=white)](https://www.scala-lang.org/)
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
 
 Welcome to **1ngVG-ExamsProjects** — an organization that collects academic, personal, and collaborative software projects developed for university courses, final assignments, and experimentation.
 
