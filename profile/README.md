@@ -54,20 +54,6 @@ Some of the projects currently hosted in this organization include:
 - **PCD-Final-Project** — Academic project to understand concurrent and distributed programming
 - **Keyla-TTT** — Project for Software Process Engineering (focused on the management of a multirepo project, github actions and automatic release and deployment)
 
-## 📊 Organization Stats
-
-<div align="center">
-
-### 🌐 Top Languages Across Repos
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1ngVG-ExamsProjects&layout=donut&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/1ngVG-ExamsProjects)
-
-### 📅 Commit Activity Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=1ngVG-ExamsProjects&theme=tokyo-night&hide_border=true&area=true)](https://github.com/1ngVG-ExamsProjects)
-
-</div>
-
 ## Notes
 
 Some repositories in this organization are public, while others are private and used for ongoing coursework or internal team development.
