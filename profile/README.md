@@ -1,4 +1,4 @@
-# 1ngVG-ExamsProjects
+# Valerio Giannini's University Projects
 
 <div align="center">
 
@@ -23,14 +23,14 @@
 
 </div>
 
-Welcome to **1ngVG-ExamsProjects** — an organization that collects academic, personal, and collaborative software projects developed for university courses, final assignments, and experimentation.
+Welcome to **VG-University** — an organization that collects academic, personal, and collaborative software projects developed for university courses, final assignments, and experimentation.
 
 ## What is this organization for?
 
 This organization is used to:
 
 - host **exam and course projects**
-- collect **team-based university work**
+- collect **team-based (or solos) university work**
 
 Projects here span multiple software engineering areas, including:
 
